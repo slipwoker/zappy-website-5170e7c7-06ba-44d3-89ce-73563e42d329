@@ -7,69 +7,69 @@
 ## Pages
 
 ### Home
-https://rpnode-5170e7c7.zappy5.app
+https://example.com
 Unlock premium FiveM scripts, server packages &amp; in-game assets at RPNode. Build, customize, and dominate GTA RP with our top-tier marketplace. Start now!
 
 ### About
-https://rpnode-5170e7c7.zappy5.app/about
+https://example.com/about
 Discover how RPNode empowers GTA RP enthusiasts with cutting-edge FiveM resources. Our mission: equip server owners with unbeatable scripts and support. Learn more!
 
 ### Gallery
-https://rpnode-5170e7c7.zappy5.app/gallery
+https://example.com/gallery
 Browse stunning FiveM server builds, custom scripts, and in-game items in action. Get inspired for your next GTA RP project at RPNode&#39;s gallery. View now!
 
 ### Contact
-https://rpnode-5170e7c7.zappy5.app/contact
+https://example.com/contact
 Ready to elevate your FiveM experience? Reach out for custom scripts, server packages, or support. RPNode&#39;s team is here to help you conquer GTA RP. Contact us!
 
 ### Products
-https://rpnode-5170e7c7.zappy5.app/products
+https://example.com/products
 Our Products - RPNode
 
 ### Cart
-https://rpnode-5170e7c7.zappy5.app/cart
+https://example.com/cart
 Your Cart
 
 ### Checkout
-https://rpnode-5170e7c7.zappy5.app/checkout
+https://example.com/checkout
 Checkout
 
 ### Login
-https://rpnode-5170e7c7.zappy5.app/login
+https://example.com/login
 Customer Login
 
 ### Account
-https://rpnode-5170e7c7.zappy5.app/account
+https://example.com/account
 My Account
 
 ### Order Success
-https://rpnode-5170e7c7.zappy5.app/order-success
+https://example.com/order-success
 Thank you for your order
 
 ### Product Detail
-https://rpnode-5170e7c7.zappy5.app/product/:slug
+https://example.com/product/:slug
 Product Details - RPNode
 
 ### Category
-https://rpnode-5170e7c7.zappy5.app/category/:slug
+https://example.com/category/:slug
 Products - RPNode
 
 ### Thank You - RPNode
-https://rpnode-5170e7c7.zappy5.app/thank-you
+https://example.com/thank-you
 Thank you for contacting the RPNode FiveM server marketplace. We have received your message and will respond shortly.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://rpnode-5170e7c7.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://rpnode-5170e7c7.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://rpnode-5170e7c7.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ Gaming / Game Server Marketplace
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://rpnode-5170e7c7.zappy5.app/sitemap.xml
-- Robots: https://rpnode-5170e7c7.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://rpnode-5170e7c7.zappy5.app/llms-full.txt
-- Products (JSON): https://rpnode-5170e7c7.zappy5.app/products.json
-- Products (Google Merchant RSS): https://rpnode-5170e7c7.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
